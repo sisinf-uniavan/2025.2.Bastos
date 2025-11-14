@@ -38,7 +38,7 @@ O notebook `.ipynb` incluído teve todas as suas saídas de célula limpas.
 
 ⚙️ Como Utilizar o Código
 -------------------------------
-Todas as instruções metodológicas detalhadas para a replicação do projeto (incluindo o processo de ETL, a modelagem de dados, o treinamento do modelo e a integração no Power BI) estão descritas no **Capítulo 3 (Desenvolvimento)** do arquivo **TCC2_Jordan_Bastos.pdf** (disponível neste repositório).
+Todas as instruções metodológicas detalhadas para a replicação do projeto (incluindo o processo de ETL, a modelagem de dados, o treinamento do modelo e a integração no Power BI) estão descritas no **Capítulo 3 (Desenvolvimento)** do arquivo **TCC2_Jordan_Bastos_V._Final.pdf** (disponível neste repositório).
 
 Os arquivos na pasta `Codigo-Fonte` (como o notebook `.ipynb` e os scripts `.py`) também contêm comentários detalhados e dicas para facilitar a execução técnica e a replicação do ambiente.
 
