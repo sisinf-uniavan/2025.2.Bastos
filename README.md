@@ -51,11 +51,6 @@ Bastos, Jordan Robson Ribeiro. **BUSINESS INTELLIGENCE E MACHINE LEARNING NA MEL
 Este repositório está licenciado sob os termos da Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
 Você pode baixar, modificar e utilizar este conteúdo desde que cite a fonte e não o utilize para fins comerciais.
 
-Ao término do Trabalho de Conclusão de Curso (TCC), este repositório será transferido à instituição de ensino como parte do acervo acadêmico permanente.
-A identificação oficial do repositório segue o padrão:
-
-`2025.2.Bastos` (defesa no 2º semestre de 2025)
-
 📬 Contato
 -----------
 📧 [Jordan.bastos.714@gmail.com]
